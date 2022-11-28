@@ -1,4 +1,4 @@
-//  declare function
+//  declare function for checking the speed and awarding demerit points
 function speed() {
   let speed = prompt("Input speed");
   let demeritPoints = (speed - 70) / 5;
@@ -7,7 +7,7 @@ function speed() {
     console.log("Ok");
   } else if (demeritPoints <= 12) {
     console.log(`Point : ${demeritPoints}`);
-  } else {
+  } else  {
     console.log("License suspended");
   }
 }
