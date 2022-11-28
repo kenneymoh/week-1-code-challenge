@@ -1,5 +1,5 @@
 //  declare function
-function speedLimit() {
+function speed() {
   let speed = prompt("Input speed");
   let demeritPoints = (speed - 70) / 5;
 
@@ -11,4 +11,4 @@ function speedLimit() {
     console.log("License suspended");
   }
 }
-speedLimit();
+speed();
