@@ -11,13 +11,13 @@ function studentGradeGenerator(){
             console.log('A');
         ;}
          if (grade >= 60 && grade <= 78) {
-                console. log('B');
+                console.log('B');
             };
         if (grade >= 49 && grade <= 59) {
-                    console. log('C');
+                    console.log('C');
                 }
                 else if (grade >= 40 && grade <= 48) {
-                        console. log('D');
+                        console.log('D');
                     }
                     else if (grade < 39 ){
                         console.log('E')
