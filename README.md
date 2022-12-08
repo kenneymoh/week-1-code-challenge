@@ -1,12 +1,16 @@
-CHALLENGE 1: STUDENT GRADE GENERATOR (Toy Problem)
-We are supposed to prompt the user to input student marks. On a range of 0-100 we are to compute the grade.
+PROJECT TITLE.
+1.Code-challenge1- Student Grade Generator. 2. Code-challenge2-Speed Detector. 3.Code-challenge(-Net Salary Calculator)
 
-CHALLENGE 2: SPEED DETECTOR (Toy problem)
-We are a speed detector program that takes in the speed of a car e.g 80. If the speed is less than 70, it prints “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points. Have alsoimplemented the if else control flow basics
+DESCRIPTION.
+The project contains three javascript files: 1.gradinggenerator.js which run the students grade generator 2.speeddetector.js which runs the speed detector. 3.salary.js which runs the salary calculator.The net salary challenge also contains the index.html that handles the input and output values of the net salary calculator.You will see that this challenge has mostly implemented the Javascript basics which are mostly the control flow topics as well as some of Html and Css.
 
-This project has only a js file which will be ound in the index.js file
+INSTALLATIONS.
+The gradinggenerator.js and speeddetector.js should be ran via console.To open the console go to google and click the control,shift and c tab then paste the code provided in the js file.You can run the third project by either cloning it or forking it into a folder, once you have the project in the folder run the "index.html" in any browser of your choice. The html file is linked to all the salary javascript file in the folder as well as its css file.
 
-For the function to display the eresults just call the function which is function name followed by paranthesis()
+AUTHORS.
+Kennedy Maina
 
-CHALLENGE 3: NET SALARY CALCULATOR (Toy problem)
-Write a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIFDeductions, NSSFDeductions, gross salary, and net salary. 
+@kenneymoh
+
+LICENCE
+MIT License
